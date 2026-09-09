@@ -25,6 +25,7 @@ Solved Problems of Leet_Code
 | [0014-longest-common-prefix](https://github.com/23ShubhamCodes/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/23ShubhamCodes/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/23ShubhamCodes/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/23ShubhamCodes/LeetCode/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Solved Problems of Leet_Code
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/23ShubhamCodes/LeetCode/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |
