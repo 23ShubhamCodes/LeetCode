@@ -11,6 +11,7 @@ Solved Problems of Leet_Code
 | [0026-remove-duplicates-from-sorted-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/23ShubhamCodes/LeetCode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/23ShubhamCodes/LeetCode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Solved Problems of Leet_Code
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/23ShubhamCodes/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/23ShubhamCodes/LeetCode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
