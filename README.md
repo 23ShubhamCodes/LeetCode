@@ -7,6 +7,7 @@ Solved Problems of Leet_Code
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/23ShubhamCodes/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/23ShubhamCodes/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/23ShubhamCodes/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/23ShubhamCodes/LeetCode/tree/master/0035-search-insert-position) |
@@ -44,6 +45,7 @@ Solved Problems of Leet_Code
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/23ShubhamCodes/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/23ShubhamCodes/LeetCode/tree/master/0125-valid-palindrome) |
@@ -55,4 +57,8 @@ Solved Problems of Leet_Code
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0088-merge-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/23ShubhamCodes/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
