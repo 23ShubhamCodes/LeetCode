@@ -12,6 +12,7 @@ Solved Problems of Leet_Code
 | [0026-remove-duplicates-from-sorted-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/23ShubhamCodes/LeetCode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/23ShubhamCodes/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/23ShubhamCodes/LeetCode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -67,4 +68,8 @@ Solved Problems of Leet_Code
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/23ShubhamCodes/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/23ShubhamCodes/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
