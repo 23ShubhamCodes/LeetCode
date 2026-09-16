@@ -30,6 +30,7 @@ Solved Problems of Leet_Code
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/23ShubhamCodes/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/23ShubhamCodes/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/23ShubhamCodes/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/23ShubhamCodes/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/23ShubhamCodes/LeetCode/tree/master/0125-valid-palindrome) |
@@ -51,6 +52,7 @@ Solved Problems of Leet_Code
 | ------- |
 | [0011-container-with-most-water](https://github.com/23ShubhamCodes/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/23ShubhamCodes/LeetCode/tree/master/0125-valid-palindrome) |
 ## Binary Search
@@ -73,4 +75,20 @@ Solved Problems of Leet_Code
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/23ShubhamCodes/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
