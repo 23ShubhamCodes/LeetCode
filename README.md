@@ -16,12 +16,14 @@ Solved Problems of Leet_Code
 | [0088-merge-sorted-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/23ShubhamCodes/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/23ShubhamCodes/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/23ShubhamCodes/LeetCode/tree/master/0228-summary-ranges) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/23ShubhamCodes/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/23ShubhamCodes/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +70,7 @@ Solved Problems of Leet_Code
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -100,4 +103,16 @@ Solved Problems of Leet_Code
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/23ShubhamCodes/LeetCode/tree/master/0039-combination-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
