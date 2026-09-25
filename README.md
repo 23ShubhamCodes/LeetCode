@@ -47,6 +47,7 @@ Solved Problems of Leet_Code
 | [0168-excel-sheet-column-title](https://github.com/23ShubhamCodes/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0345-reverse-vowels-of-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0520-detect-capital](https://github.com/23ShubhamCodes/LeetCode/tree/master/0520-detect-capital) |
 | [3498-reverse-degree-of-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
