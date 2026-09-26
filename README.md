@@ -48,6 +48,7 @@ Solved Problems of Leet_Code
 | [0345-reverse-vowels-of-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/23ShubhamCodes/LeetCode/tree/master/0520-detect-capital) |
+| [1544-make-the-string-great](https://github.com/23ShubhamCodes/LeetCode/tree/master/1544-make-the-string-great) |
 | [3498-reverse-degree-of-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
@@ -132,4 +133,8 @@ Solved Problems of Leet_Code
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [1544-make-the-string-great](https://github.com/23ShubhamCodes/LeetCode/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
