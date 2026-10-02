@@ -2,7 +2,7 @@ class Solution {
 public:
     string destCity(vector<vector<string>>& paths) 
     {
-        string ans;
+        /*string ans;
         for(int i=0;i<paths.size();i++)
         {
             string a=paths[i][1];
@@ -23,6 +23,18 @@ public:
             else 
                 return(a);
         }
-        return("");
+        return("");*/
+    map<string,int> a;
+    for(int i=0;i<paths.size();i++)
+    {
+        a[paths[i][0]];
+    }    
+    for(int i=0;i<paths.size();i++)
+    {
+        string ans=paths[i][1];
+        if(a.find(ans)==a.end())
+            return(ans);
+    }    
+    return("");
     }
 };
