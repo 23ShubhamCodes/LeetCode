@@ -24,6 +24,7 @@ Solved Problems of Leet_Code
 | [1436-destination-city](https://github.com/23ShubhamCodes/LeetCode/tree/master/1436-destination-city) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1748-sum-of-unique-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1816-truncate-sentence](https://github.com/23ShubhamCodes/LeetCode/tree/master/1816-truncate-sentence) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Solved Problems of Leet_Code
 | [0520-detect-capital](https://github.com/23ShubhamCodes/LeetCode/tree/master/0520-detect-capital) |
 | [1436-destination-city](https://github.com/23ShubhamCodes/LeetCode/tree/master/1436-destination-city) |
 | [1544-make-the-string-great](https://github.com/23ShubhamCodes/LeetCode/tree/master/1544-make-the-string-great) |
+| [1816-truncate-sentence](https://github.com/23ShubhamCodes/LeetCode/tree/master/1816-truncate-sentence) |
 | [3498-reverse-degree-of-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
