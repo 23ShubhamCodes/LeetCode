@@ -23,6 +23,7 @@ Solved Problems of Leet_Code
 | [1051-height-checker](https://github.com/23ShubhamCodes/LeetCode/tree/master/1051-height-checker) |
 | [1436-destination-city](https://github.com/23ShubhamCodes/LeetCode/tree/master/1436-destination-city) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1748-sum-of-unique-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Solved Problems of Leet_Code
 | [0219-contains-duplicate-ii](https://github.com/23ShubhamCodes/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1436-destination-city](https://github.com/23ShubhamCodes/LeetCode/tree/master/1436-destination-city) |
+| [1748-sum-of-unique-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +138,7 @@ Solved Problems of Leet_Code
 | ------- |
 | [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1748-sum-of-unique-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
