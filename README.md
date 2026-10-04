@@ -25,6 +25,7 @@ Solved Problems of Leet_Code
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1748-sum-of-unique-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/23ShubhamCodes/LeetCode/tree/master/1816-truncate-sentence) |
+| [1920-build-array-from-permutation](https://github.com/23ShubhamCodes/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Solved Problems of Leet_Code
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/23ShubhamCodes/LeetCode/tree/master/0067-add-binary) |
+| [1920-build-array-from-permutation](https://github.com/23ShubhamCodes/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
