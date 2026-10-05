@@ -20,6 +20,7 @@ Solved Problems of Leet_Code
 | [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/23ShubhamCodes/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/23ShubhamCodes/LeetCode/tree/master/0228-summary-ranges) |
+| [0832-flipping-an-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0832-flipping-an-image) |
 | [1051-height-checker](https://github.com/23ShubhamCodes/LeetCode/tree/master/1051-height-checker) |
 | [1436-destination-city](https://github.com/23ShubhamCodes/LeetCode/tree/master/1436-destination-city) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -71,10 +72,12 @@ Solved Problems of Leet_Code
 | ------- |
 | [0067-add-binary](https://github.com/23ShubhamCodes/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/23ShubhamCodes/LeetCode/tree/master/0136-single-number) |
+| [0832-flipping-an-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/23ShubhamCodes/LeetCode/tree/master/0067-add-binary) |
+| [0832-flipping-an-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/23ShubhamCodes/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
@@ -88,6 +91,7 @@ Solved Problems of Leet_Code
 | [0125-valid-palindrome](https://github.com/23ShubhamCodes/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/23ShubhamCodes/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0345-reverse-vowels-of-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0832-flipping-an-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/23ShubhamCodes/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -181,4 +185,8 @@ Solved Problems of Leet_Code
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/23ShubhamCodes/LeetCode/tree/master/1051-height-checker) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
