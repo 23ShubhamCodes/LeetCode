@@ -21,6 +21,7 @@ Solved Problems of Leet_Code
 | [0219-contains-duplicate-ii](https://github.com/23ShubhamCodes/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/23ShubhamCodes/LeetCode/tree/master/0228-summary-ranges) |
 | [0832-flipping-an-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0832-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/23ShubhamCodes/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/23ShubhamCodes/LeetCode/tree/master/1051-height-checker) |
 | [1436-destination-city](https://github.com/23ShubhamCodes/LeetCode/tree/master/1436-destination-city) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -95,6 +96,7 @@ Solved Problems of Leet_Code
 | [0345-reverse-vowels-of-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0832-flipping-an-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/23ShubhamCodes/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/23ShubhamCodes/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +106,7 @@ Solved Problems of Leet_Code
 | ------- |
 | [0088-merge-sorted-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
+| [0905-sort-array-by-parity](https://github.com/23ShubhamCodes/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/23ShubhamCodes/LeetCode/tree/master/1051-height-checker) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 ## Greedy
