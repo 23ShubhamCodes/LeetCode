@@ -5,7 +5,7 @@ public:
         map<char,char> ans;
         for(int i=0;i<s.size();i++)
         {
-            if(ans.find(s[i])!=ans.end() && ans.size()>0)
+            if(ans.find(s[i])!=ans.end())
             {
                 if(ans[s[i]]!=t[i])
                 {
@@ -17,7 +17,7 @@ public:
         map<char,char> temp;
         for(int i=0;i<s.size();i++)
         {
-            if(temp.find(t[i])!=temp.end() && temp.size()>0)
+            if(temp.find(t[i])!=temp.end())
             {
                 if(temp[t[i]]!=s[i])
                 {
