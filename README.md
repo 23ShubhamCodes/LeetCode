@@ -14,6 +14,7 @@ Solved Problems of Leet_Code
 | [0035-search-insert-position](https://github.com/23ShubhamCodes/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/23ShubhamCodes/LeetCode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/23ShubhamCodes/LeetCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/23ShubhamCodes/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/23ShubhamCodes/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/23ShubhamCodes/LeetCode/tree/master/0136-single-number) |
@@ -104,6 +105,7 @@ Solved Problems of Leet_Code
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/23ShubhamCodes/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/23ShubhamCodes/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -200,5 +202,6 @@ Solved Problems of Leet_Code
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/23ShubhamCodes/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
