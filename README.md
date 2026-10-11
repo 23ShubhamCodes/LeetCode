@@ -45,6 +45,7 @@ Solved Problems of Leet_Code
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/23ShubhamCodes/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/23ShubhamCodes/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/23ShubhamCodes/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/23ShubhamCodes/LeetCode/tree/master/0067-add-binary) |
@@ -173,6 +174,7 @@ Solved Problems of Leet_Code
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/23ShubhamCodes/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/23ShubhamCodes/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/23ShubhamCodes/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/23ShubhamCodes/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -184,6 +186,7 @@ Solved Problems of Leet_Code
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/23ShubhamCodes/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/23ShubhamCodes/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/23ShubhamCodes/LeetCode/tree/master/0234-palindrome-linked-list) |
