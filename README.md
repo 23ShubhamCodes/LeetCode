@@ -221,4 +221,8 @@ Solved Problems of Leet_Code
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/23ShubhamCodes/LeetCode/tree/master/0148-sort-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/23ShubhamCodes/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
