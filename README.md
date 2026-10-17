@@ -32,6 +32,7 @@ Solved Problems of Leet_Code
 | [1748-sum-of-unique-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/23ShubhamCodes/LeetCode/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/23ShubhamCodes/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Solved Problems of Leet_Code
 | [0067-add-binary](https://github.com/23ShubhamCodes/LeetCode/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/23ShubhamCodes/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
@@ -223,6 +225,7 @@ Solved Problems of Leet_Code
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/23ShubhamCodes/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0832-flipping-an-image) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Merge Sort
 |  |
 | ------- |
