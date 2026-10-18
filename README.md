@@ -26,6 +26,7 @@ Solved Problems of Leet_Code
 | [0832-flipping-an-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/23ShubhamCodes/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/23ShubhamCodes/LeetCode/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/23ShubhamCodes/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/23ShubhamCodes/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/23ShubhamCodes/LeetCode/tree/master/1436-destination-city) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -113,6 +114,7 @@ Solved Problems of Leet_Code
 | [0832-flipping-an-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/23ShubhamCodes/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/23ShubhamCodes/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1089-duplicate-zeros](https://github.com/23ShubhamCodes/LeetCode/tree/master/1089-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |
