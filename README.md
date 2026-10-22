@@ -26,6 +26,7 @@ Solved Problems of Leet_Code
 | [0463-island-perimeter](https://github.com/23ShubhamCodes/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/23ShubhamCodes/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/23ShubhamCodes/LeetCode/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/23ShubhamCodes/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0832-flipping-an-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/23ShubhamCodes/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/23ShubhamCodes/LeetCode/tree/master/1051-height-checker) |
@@ -50,6 +51,7 @@ Solved Problems of Leet_Code
 | [0219-contains-duplicate-ii](https://github.com/23ShubhamCodes/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/23ShubhamCodes/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/23ShubhamCodes/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/23ShubhamCodes/LeetCode/tree/master/1436-destination-city) |
 | [1748-sum-of-unique-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -191,6 +193,7 @@ Solved Problems of Leet_Code
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/23ShubhamCodes/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/23ShubhamCodes/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1544-make-the-string-great](https://github.com/23ShubhamCodes/LeetCode/tree/master/1544-make-the-string-great) |
 ## Linked List
 |  |
@@ -253,4 +256,8 @@ Solved Problems of Leet_Code
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/23ShubhamCodes/LeetCode/tree/master/0463-island-perimeter) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/23ShubhamCodes/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
