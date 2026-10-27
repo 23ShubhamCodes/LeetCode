@@ -37,6 +37,7 @@ Solved Problems of Leet_Code
 | [1089-duplicate-zeros](https://github.com/23ShubhamCodes/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/23ShubhamCodes/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/23ShubhamCodes/LeetCode/tree/master/1436-destination-city) |
+| [1480-running-sum-of-1d-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1748-sum-of-unique-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/23ShubhamCodes/LeetCode/tree/master/1816-truncate-sentence) |
@@ -277,4 +278,8 @@ Solved Problems of Leet_Code
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
