@@ -42,6 +42,7 @@ Solved Problems of Leet_Code
 | [1748-sum-of-unique-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/23ShubhamCodes/LeetCode/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/23ShubhamCodes/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1991-find-the-middle-index-in-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -282,4 +283,5 @@ Solved Problems of Leet_Code
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
