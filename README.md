@@ -36,6 +36,7 @@ Solved Problems of Leet_Code
 | [1051-height-checker](https://github.com/23ShubhamCodes/LeetCode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/23ShubhamCodes/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/23ShubhamCodes/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/23ShubhamCodes/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1436-destination-city](https://github.com/23ShubhamCodes/LeetCode/tree/master/1436-destination-city) |
 | [1480-running-sum-of-1d-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -72,6 +73,7 @@ Solved Problems of Leet_Code
 | [0067-add-binary](https://github.com/23ShubhamCodes/LeetCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/23ShubhamCodes/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/23ShubhamCodes/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/23ShubhamCodes/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## String
 |  |
 | ------- |
