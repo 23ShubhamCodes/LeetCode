@@ -30,6 +30,7 @@ Solved Problems of Leet_Code
 | [0506-relative-ranks](https://github.com/23ShubhamCodes/LeetCode/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/23ShubhamCodes/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/23ShubhamCodes/LeetCode/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/23ShubhamCodes/LeetCode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/23ShubhamCodes/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -60,6 +61,7 @@ Solved Problems of Leet_Code
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/23ShubhamCodes/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/23ShubhamCodes/LeetCode/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/23ShubhamCodes/LeetCode/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/23ShubhamCodes/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/23ShubhamCodes/LeetCode/tree/master/1436-destination-city) |
@@ -101,6 +103,7 @@ Solved Problems of Leet_Code
 | ------- |
 | [0067-add-binary](https://github.com/23ShubhamCodes/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/23ShubhamCodes/LeetCode/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/23ShubhamCodes/LeetCode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
@@ -145,6 +148,7 @@ Solved Problems of Leet_Code
 | [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/23ShubhamCodes/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/23ShubhamCodes/LeetCode/tree/master/0506-relative-ranks) |
+| [0645-set-mismatch](https://github.com/23ShubhamCodes/LeetCode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/23ShubhamCodes/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/23ShubhamCodes/LeetCode/tree/master/1051-height-checker) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
