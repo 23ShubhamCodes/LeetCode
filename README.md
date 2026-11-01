@@ -40,6 +40,7 @@ Solved Problems of Leet_Code
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/23ShubhamCodes/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1436-destination-city](https://github.com/23ShubhamCodes/LeetCode/tree/master/1436-destination-city) |
 | [1480-running-sum-of-1d-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/23ShubhamCodes/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1748-sum-of-unique-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/23ShubhamCodes/LeetCode/tree/master/1816-truncate-sentence) |
@@ -65,6 +66,7 @@ Solved Problems of Leet_Code
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/23ShubhamCodes/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/23ShubhamCodes/LeetCode/tree/master/1436-destination-city) |
+| [1512-number-of-good-pairs](https://github.com/23ShubhamCodes/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Math
 |  |
@@ -76,6 +78,7 @@ Solved Problems of Leet_Code
 | [0168-excel-sheet-column-title](https://github.com/23ShubhamCodes/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/23ShubhamCodes/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/23ShubhamCodes/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/23ShubhamCodes/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -196,6 +199,7 @@ Solved Problems of Leet_Code
 | ------- |
 | [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/23ShubhamCodes/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
