@@ -31,6 +31,7 @@ Solved Problems of Leet_Code
 | [0566-reshape-the-matrix](https://github.com/23ShubhamCodes/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/23ShubhamCodes/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/23ShubhamCodes/LeetCode/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/23ShubhamCodes/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/23ShubhamCodes/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -152,6 +153,7 @@ Solved Problems of Leet_Code
 | [0455-assign-cookies](https://github.com/23ShubhamCodes/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/23ShubhamCodes/LeetCode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/23ShubhamCodes/LeetCode/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/23ShubhamCodes/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/23ShubhamCodes/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/23ShubhamCodes/LeetCode/tree/master/1051-height-checker) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
