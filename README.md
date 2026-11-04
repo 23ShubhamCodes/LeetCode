@@ -49,6 +49,7 @@ Solved Problems of Leet_Code
 | [1920-build-array-from-permutation](https://github.com/23ShubhamCodes/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/23ShubhamCodes/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Solved Problems of Leet_Code
 | [1436-destination-city](https://github.com/23ShubhamCodes/LeetCode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/23ShubhamCodes/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/23ShubhamCodes/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +122,7 @@ Solved Problems of Leet_Code
 | [0832-flipping-an-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/23ShubhamCodes/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/23ShubhamCodes/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3498-reverse-degree-of-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
@@ -159,6 +162,7 @@ Solved Problems of Leet_Code
 | [0905-sort-array-by-parity](https://github.com/23ShubhamCodes/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/23ShubhamCodes/LeetCode/tree/master/1051-height-checker) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/23ShubhamCodes/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Greedy
 |  |
 | ------- |
