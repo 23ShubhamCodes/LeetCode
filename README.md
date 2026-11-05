@@ -50,6 +50,7 @@ Solved Problems of Leet_Code
 | [1991-find-the-middle-index-in-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/23ShubhamCodes/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2460-apply-operations-to-an-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Solved Problems of Leet_Code
 | [1920-build-array-from-permutation](https://github.com/23ShubhamCodes/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/23ShubhamCodes/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2460-apply-operations-to-an-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
@@ -144,6 +146,7 @@ Solved Problems of Leet_Code
 | [0876-middle-of-the-linked-list](https://github.com/23ShubhamCodes/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/23ShubhamCodes/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/23ShubhamCodes/LeetCode/tree/master/1089-duplicate-zeros) |
+| [2460-apply-operations-to-an-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
