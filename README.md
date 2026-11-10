@@ -34,6 +34,7 @@ Solved Problems of Leet_Code
 | [0747-largest-number-at-least-twice-of-others](https://github.com/23ShubhamCodes/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/23ShubhamCodes/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/23ShubhamCodes/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/23ShubhamCodes/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/23ShubhamCodes/LeetCode/tree/master/1051-height-checker) |
@@ -69,6 +70,7 @@ Solved Problems of Leet_Code
 | [0496-next-greater-element-i](https://github.com/23ShubhamCodes/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/23ShubhamCodes/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/23ShubhamCodes/LeetCode/tree/master/0645-set-mismatch) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/23ShubhamCodes/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/23ShubhamCodes/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/23ShubhamCodes/LeetCode/tree/master/1436-destination-city) |
@@ -83,6 +85,7 @@ Solved Problems of Leet_Code
 | [0066-plus-one](https://github.com/23ShubhamCodes/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/23ShubhamCodes/LeetCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/23ShubhamCodes/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/23ShubhamCodes/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/23ShubhamCodes/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/23ShubhamCodes/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/23ShubhamCodes/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -212,6 +215,7 @@ Solved Problems of Leet_Code
 | ------- |
 | [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/23ShubhamCodes/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1512-number-of-good-pairs](https://github.com/23ShubhamCodes/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -308,4 +312,16 @@ Solved Problems of Leet_Code
 | [1109-corporate-flight-bookings](https://github.com/23ShubhamCodes/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/23ShubhamCodes/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/23ShubhamCodes/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/23ShubhamCodes/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
