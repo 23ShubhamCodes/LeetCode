@@ -21,6 +21,7 @@ Solved Problems of Leet_Code
 | [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/23ShubhamCodes/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/23ShubhamCodes/LeetCode/tree/master/0228-summary-ranges) |
+| [0414-third-maximum-number](https://github.com/23ShubhamCodes/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/23ShubhamCodes/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/23ShubhamCodes/LeetCode/tree/master/0463-island-perimeter) |
@@ -163,6 +164,7 @@ Solved Problems of Leet_Code
 | [0088-merge-sorted-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/23ShubhamCodes/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/23ShubhamCodes/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/23ShubhamCodes/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/23ShubhamCodes/LeetCode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/23ShubhamCodes/LeetCode/tree/master/0645-set-mismatch) |
