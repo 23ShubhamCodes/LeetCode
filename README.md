@@ -31,6 +31,7 @@ Solved Problems of Leet_Code
 | [0506-relative-ranks](https://github.com/23ShubhamCodes/LeetCode/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/23ShubhamCodes/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/23ShubhamCodes/LeetCode/tree/master/0575-distribute-candies) |
+| [0598-range-addition-ii](https://github.com/23ShubhamCodes/LeetCode/tree/master/0598-range-addition-ii) |
 | [0645-set-mismatch](https://github.com/23ShubhamCodes/LeetCode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/23ShubhamCodes/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0832-flipping-an-image) |
@@ -86,6 +87,7 @@ Solved Problems of Leet_Code
 | [0066-plus-one](https://github.com/23ShubhamCodes/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/23ShubhamCodes/LeetCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/23ShubhamCodes/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0598-range-addition-ii](https://github.com/23ShubhamCodes/LeetCode/tree/master/0598-range-addition-ii) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/23ShubhamCodes/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/23ShubhamCodes/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/23ShubhamCodes/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
