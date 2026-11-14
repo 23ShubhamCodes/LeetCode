@@ -56,6 +56,7 @@ Solved Problems of Leet_Code
 | [2022-convert-1d-array-into-2d-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/23ShubhamCodes/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2460-apply-operations-to-an-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/2460-apply-operations-to-an-array) |
+| [2682-find-the-losers-of-the-circular-game](https://github.com/23ShubhamCodes/LeetCode/tree/master/2682-find-the-losers-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Solved Problems of Leet_Code
 | [1512-number-of-good-pairs](https://github.com/23ShubhamCodes/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/23ShubhamCodes/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2682-find-the-losers-of-the-circular-game](https://github.com/23ShubhamCodes/LeetCode/tree/master/2682-find-the-losers-of-the-circular-game) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +135,7 @@ Solved Problems of Leet_Code
 | [2022-convert-1d-array-into-2d-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/23ShubhamCodes/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2460-apply-operations-to-an-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/2460-apply-operations-to-an-array) |
+| [2682-find-the-losers-of-the-circular-game](https://github.com/23ShubhamCodes/LeetCode/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
