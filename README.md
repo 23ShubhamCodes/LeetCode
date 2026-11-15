@@ -21,6 +21,7 @@ Solved Problems of Leet_Code
 | [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/23ShubhamCodes/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/23ShubhamCodes/LeetCode/tree/master/0228-summary-ranges) |
+| [0347-top-k-frequent-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/23ShubhamCodes/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/23ShubhamCodes/LeetCode/tree/master/0455-assign-cookies) |
@@ -68,6 +69,7 @@ Solved Problems of Leet_Code
 | [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/23ShubhamCodes/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/23ShubhamCodes/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/23ShubhamCodes/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -169,6 +171,7 @@ Solved Problems of Leet_Code
 | [0088-merge-sorted-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/23ShubhamCodes/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/23ShubhamCodes/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/23ShubhamCodes/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/23ShubhamCodes/LeetCode/tree/master/0506-relative-ranks) |
@@ -217,10 +220,12 @@ Solved Problems of Leet_Code
 | ------- |
 | [0148-sort-list](https://github.com/23ShubhamCodes/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/23ShubhamCodes/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/23ShubhamCodes/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1512-number-of-good-pairs](https://github.com/23ShubhamCodes/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -308,6 +313,7 @@ Solved Problems of Leet_Code
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/23ShubhamCodes/LeetCode/tree/master/0506-relative-ranks) |
 ## Pigeonhole Principle
 |  |
@@ -331,4 +337,12 @@ Solved Problems of Leet_Code
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/23ShubhamCodes/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
