@@ -22,6 +22,7 @@ Solved Problems of Leet_Code
 | [0219-contains-duplicate-ii](https://github.com/23ShubhamCodes/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/23ShubhamCodes/LeetCode/tree/master/0228-summary-ranges) |
 | [0347-top-k-frequent-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/23ShubhamCodes/LeetCode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/23ShubhamCodes/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/23ShubhamCodes/LeetCode/tree/master/0455-assign-cookies) |
@@ -91,6 +92,7 @@ Solved Problems of Leet_Code
 | [0066-plus-one](https://github.com/23ShubhamCodes/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/23ShubhamCodes/LeetCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/23ShubhamCodes/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0396-rotate-function](https://github.com/23ShubhamCodes/LeetCode/tree/master/0396-rotate-function) |
 | [0598-range-addition-ii](https://github.com/23ShubhamCodes/LeetCode/tree/master/0598-range-addition-ii) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/23ShubhamCodes/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/23ShubhamCodes/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -195,6 +197,7 @@ Solved Problems of Leet_Code
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/23ShubhamCodes/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/23ShubhamCodes/LeetCode/tree/master/0396-rotate-function) |
 ## String Matching
 |  |
 | ------- |
