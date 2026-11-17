@@ -13,6 +13,7 @@ Solved Problems of Leet_Code
 | [0027-remove-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/23ShubhamCodes/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/23ShubhamCodes/LeetCode/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/23ShubhamCodes/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/23ShubhamCodes/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -89,6 +90,7 @@ Solved Problems of Leet_Code
 | ------- |
 | [0002-add-two-numbers](https://github.com/23ShubhamCodes/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/23ShubhamCodes/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/23ShubhamCodes/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/23ShubhamCodes/LeetCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/23ShubhamCodes/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -284,6 +286,7 @@ Solved Problems of Leet_Code
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/23ShubhamCodes/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/23ShubhamCodes/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/23ShubhamCodes/LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/23ShubhamCodes/LeetCode/tree/master/0566-reshape-the-matrix) |
