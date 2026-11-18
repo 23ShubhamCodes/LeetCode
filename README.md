@@ -60,6 +60,7 @@ Solved Problems of Leet_Code
 | [2154-keep-multiplying-found-values-by-two](https://github.com/23ShubhamCodes/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2460-apply-operations-to-an-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/23ShubhamCodes/LeetCode/tree/master/2682-find-the-losers-of-the-circular-game) |
+| [2706-buy-two-chocolates](https://github.com/23ShubhamCodes/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,11 +186,13 @@ Solved Problems of Leet_Code
 | [1051-height-checker](https://github.com/23ShubhamCodes/LeetCode/tree/master/1051-height-checker) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/23ShubhamCodes/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2706-buy-two-chocolates](https://github.com/23ShubhamCodes/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/23ShubhamCodes/LeetCode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/23ShubhamCodes/LeetCode/tree/master/0455-assign-cookies) |
+| [2706-buy-two-chocolates](https://github.com/23ShubhamCodes/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Sliding Window
 |  |
 | ------- |
