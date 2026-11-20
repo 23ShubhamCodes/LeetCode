@@ -62,6 +62,7 @@ Solved Problems of Leet_Code
 | [2460-apply-operations-to-an-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/23ShubhamCodes/LeetCode/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2706-buy-two-chocolates](https://github.com/23ShubhamCodes/LeetCode/tree/master/2706-buy-two-chocolates) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/23ShubhamCodes/LeetCode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,6 +196,7 @@ Solved Problems of Leet_Code
 | [0011-container-with-most-water](https://github.com/23ShubhamCodes/LeetCode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/23ShubhamCodes/LeetCode/tree/master/0455-assign-cookies) |
 | [2706-buy-two-chocolates](https://github.com/23ShubhamCodes/LeetCode/tree/master/2706-buy-two-chocolates) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/23ShubhamCodes/LeetCode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Sliding Window
 |  |
 | ------- |
