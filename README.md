@@ -44,6 +44,7 @@ Solved Problems of Leet_Code
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/23ShubhamCodes/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/23ShubhamCodes/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1019-next-greater-node-in-linked-list](https://github.com/23ShubhamCodes/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/23ShubhamCodes/LeetCode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/23ShubhamCodes/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1109-corporate-flight-bookings](https://github.com/23ShubhamCodes/LeetCode/tree/master/1109-corporate-flight-bookings) |
@@ -257,6 +258,7 @@ Solved Problems of Leet_Code
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/23ShubhamCodes/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/23ShubhamCodes/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/23ShubhamCodes/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1544-make-the-string-great](https://github.com/23ShubhamCodes/LeetCode/tree/master/1544-make-the-string-great) |
 ## Linked List
 |  |
@@ -271,6 +273,7 @@ Solved Problems of Leet_Code
 | [0203-remove-linked-list-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/23ShubhamCodes/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/23ShubhamCodes/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/23ShubhamCodes/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/23ShubhamCodes/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
@@ -326,6 +329,7 @@ Solved Problems of Leet_Code
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/23ShubhamCodes/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/23ShubhamCodes/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
