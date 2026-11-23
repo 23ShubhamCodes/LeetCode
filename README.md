@@ -23,6 +23,7 @@ Solved Problems of Leet_Code
 | [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/23ShubhamCodes/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/23ShubhamCodes/LeetCode/tree/master/0228-summary-ranges) |
+| [0274-h-index](https://github.com/23ShubhamCodes/LeetCode/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/23ShubhamCodes/LeetCode/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/23ShubhamCodes/LeetCode/tree/master/0396-rotate-function) |
@@ -182,6 +183,7 @@ Solved Problems of Leet_Code
 | [0088-merge-sorted-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/23ShubhamCodes/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/23ShubhamCodes/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/23ShubhamCodes/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/23ShubhamCodes/LeetCode/tree/master/0455-assign-cookies) |
@@ -290,6 +292,7 @@ Solved Problems of Leet_Code
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/23ShubhamCodes/LeetCode/tree/master/0274-h-index) |
 | [1051-height-checker](https://github.com/23ShubhamCodes/LeetCode/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
