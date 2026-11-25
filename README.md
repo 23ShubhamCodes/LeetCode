@@ -23,6 +23,7 @@ Solved Problems of Leet_Code
 | [0169-majority-element](https://github.com/23ShubhamCodes/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/23ShubhamCodes/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/23ShubhamCodes/LeetCode/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/23ShubhamCodes/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/23ShubhamCodes/LeetCode/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/23ShubhamCodes/LeetCode/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/23ShubhamCodes/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -345,6 +346,7 @@ Solved Problems of Leet_Code
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/23ShubhamCodes/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1109-corporate-flight-bookings](https://github.com/23ShubhamCodes/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/23ShubhamCodes/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
